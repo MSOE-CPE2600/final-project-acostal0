@@ -1,0 +1,5 @@
+# Ignore 
+*.o
+*.out
+*.exe
+*.d
